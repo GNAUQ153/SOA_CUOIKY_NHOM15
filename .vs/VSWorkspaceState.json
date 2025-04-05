@@ -2,15 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\SOA_CUOIKY_NHOM15-master",
-    "\\SOA_CUOIKY_NHOM15-master\\backend\\controllers",
-    "\\SOA_CUOIKY_NHOM15-master\\backend\\models",
-    "\\SOA_CUOIKY_NHOM15-master\\backend\\routes",
+    "\\SOA_CUOIKY_NHOM15-master\\backend",
     "\\SOA_CUOIKY_NHOM15-master\\frontend",
-    "\\SOA_CUOIKY_NHOM15-master\\frontend\\src",
-    "\\SOA_CUOIKY_NHOM15-master\\frontend\\src\\Components",
-    "\\SOA_CUOIKY_NHOM15-master\\frontend\\src\\Components\\Assets",
-    "\\SOA_CUOIKY_NHOM15-master\\frontend\\src\\Components\\Assets\\Assets_food"
+    "\\SOA_CUOIKY_NHOM15-master\\frontend\\src"
   ],
-  "SelectedNode": "\\SOA_CUOIKY_NHOM15-master\\frontend\\src\\Components\\Assets\\Assets_food\\food_1.png",
   "PreviewInSolutionExplorer": false
 }
